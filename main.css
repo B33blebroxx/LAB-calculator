@@ -1,0 +1,26 @@
+.black {
+  background-color: black;
+  width: 400px;
+  height: 600px;
+  color: white;
+  text-align: right;
+  margin: auto;
+  margin-top: 250px;
+  font-size: 300%;
+  font-family: monospace;
+}
+
+.clear-btn {
+  background-color: #d8d9db;
+}
+
+.box {
+  background-color: #d8d9db;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 24.5px;
+}
